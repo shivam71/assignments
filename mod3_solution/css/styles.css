@@ -1,0 +1,25 @@
+hr{
+   border-top: 2px solid black;
+}
+li{
+    color:black;
+}
+
+.navbar-brand{
+    font-size: 27px;
+}
+ul{
+    background-color: burlywood;
+}
+section{
+    
+    background-color: burlywood;
+   
+    
+}
+@media(max-width:767px){
+    section.row{
+        margin-left:  4%;
+        margin-right: 4%;
+    }
+}
